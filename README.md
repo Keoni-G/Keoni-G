@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hello, I'm Keoni.
+<h2>Cybersecurity Jr</h2>
 
-<!--
-**Keoni-G/Keoni-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Java</b>
+  - #####
+- <b>C++</b>
+  - ####
+- <b>PowerShell</b>
+  - ####
 
-Here are some ideas to get you started:
+- <b>Python</b>
+  - ####
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]:https://www.linkedin.com/in/gilberto-garcia-53512a19b/
+
